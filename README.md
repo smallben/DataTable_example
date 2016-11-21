@@ -4,9 +4,11 @@
 The project is responsible for the easiest way to archieve the simple datatable example.
 
 ## Motivation ##
-I want to make a datalist on the html(client) side.<br />
-Post/Get the data from the server side via cgi file.<br />
-The Cgi file will be written by bash script (no php or others).<br />
+I want to make a datalist on the html(client) side.
+
+Post/Get the data from the server side via cgi file.
+
+The Cgi file will be written by bash script (no php or others).
 
 ## File structure ##
 
@@ -25,8 +27,9 @@ The Cgi file will be written by bash script (no php or others).<br />
 
 ## Usage ##
 
-Just download the project. And run it on your http server.<br />
-If you don't know how to establish the server. Please check my blogger.<br />
+Just download the project. And run it on your http server.
+
+If you don't know how to establish the server. Please check my blogger.
 
 There are some parameter should be modified.
 
